@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="calculator-doug-lib",
-    version="0.1.1",
+    name="calculadora_doug_lib",
+    version="0.1.2",
     description="Biblioteca de operações matemáticas básicas em Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
